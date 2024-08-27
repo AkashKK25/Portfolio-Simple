@@ -86,6 +86,22 @@ input, select, textarea {
 	border-bottom: dotted 1px;
 }
 
+  @media screen and (max-width: 900px) {
+
+	#passions {
+		margin: 0 25px 30px 25px;
+	}
+	
+  }
+
+  @media screen and (max-width: 800px) {
+
+	#passions {
+	flex-direction: column;
+	}
+	
+  }
+
 #contact-bar {
 	display: flex;
 	justify-content: center;
