@@ -1,0 +1,13 @@
+Massively - for 3 different portfolios in the same page
+Editorial - Sidebar
+Stellar - Resume sections
+Hyperspace - UI
+
+
+
+1. **Student Performance Predictions**
+   - [Link to Dataset](https://www.kaggle.com/haseebindata/student-performance-predictions)
+
+7. **Layoffs Dataset 2024**
+   - [Link to Dataset](https://www.kaggle.com/layoffdata/layoffs-dataset-2024)
+
